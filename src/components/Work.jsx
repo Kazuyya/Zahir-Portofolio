@@ -12,9 +12,9 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: '/images/project-1.jpg',
-    title: 'Full stack music app',
-    tags: ['API', 'MVC', 'Development'],
+    imgSrc: '/images/p1.png',
+    title: 'Moti Motion',
+    tags: ['UNITY', 'Programmer'],
     projectLink: '../Html/project-detail.html'
   },
   {
