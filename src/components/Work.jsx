@@ -15,7 +15,7 @@ const works = [
     imgSrc: '/images/project-1.jpg',
     title: 'Full stack music app',
     tags: ['API', 'MVC', 'Development'],
-    projectLink: 'https://musify-5al0.onrender.com/'
+    projectLink: '../Html/project-detail.html'
   },
   {
     imgSrc: '/images/project-2.jpg',
