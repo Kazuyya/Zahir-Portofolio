@@ -66,12 +66,12 @@ const Footer = () => {
 
           <div className="mb-10">
             <h2 className="headline-1 mb-8 lg:max-w-[12ch] reveal-up">
-              Ayo mulai berkolaborasi sekarang!
+              Let's work together today!
             </h2>
 
             <ButtonPrimary
               href="mailto:zahirraihanhakim.01@gmail.com"
-              label="Mulai Project Bersama"
+              label="Start Project"
               icon="chevron_right"
               classes="reveal-up"
             />
@@ -80,7 +80,7 @@ const Footer = () => {
           <div className="grid grid-cols-2 gap-4 lg:pl-20">
 
             <div>
-              <p className="mb-2 reveal-up">Peta situs</p>
+              <p className="mb-2 reveal-up">Sitemap</p>
 
               <ul>
                 {sitemap.map(({ label, href }, key) => (
@@ -97,7 +97,7 @@ const Footer = () => {
             </div>
 
             <div>
-              <p className="mb-2 reveal-up">Media sosial</p>
+              <p className="mb-2 reveal-up">Socials</p>
 
               <ul>
                 {socials.map(({ label, href }, key) => (
