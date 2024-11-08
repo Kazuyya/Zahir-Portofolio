@@ -32,12 +32,12 @@ const Hero = () => {
               <span className="relative w-2 h-2 rounded-full bg-emerald-400">
                 <span className="absolute inset-0 rounded-full bg-emerald-400 animate-ping"></span>
               </span>
-              Ada untuk berkolaborasi!
+              Available for work
             </div>
           </div>
 
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-          Mengubah ide menjadi duina permainan menarik
+          Turning ideas into a world of exciting games
           </h2>
 
           <div className="flex items-center gap-3">
@@ -48,7 +48,7 @@ const Hero = () => {
             />
             <ButtonOutline
               href="#about"
-              label="Gulir kebawah"
+              label="Scroll down"
               icon="arrow_downward"
             />
           </div>
