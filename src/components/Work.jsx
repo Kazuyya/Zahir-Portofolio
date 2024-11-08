@@ -15,7 +15,7 @@ const works = [
     imgSrc: '/images/p1.png',
     title: 'Moti Motion',
     tags: ['UNITY', 'Programmer'],
-    projectLink: '/Html/pd1.html'
+    projectLink: 'https://moti-motion.vercel.app/'
   },
   {
     imgSrc: '/images/project-2.jpg',
