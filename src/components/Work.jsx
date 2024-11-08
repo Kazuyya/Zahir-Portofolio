@@ -14,13 +14,13 @@ const works = [
   {
     imgSrc: '/images/p1.png',
     title: 'Moti Motion',
-    tags: ['UNITY', 'Programmer'],
+    tags: ['Unity', '2D Pixel Game'],
     projectLink: 'https://moti-motion.vercel.app/'
   },
   {
     imgSrc: '/images/project-2.jpg',
-    title: 'Free stock photo app',
-    tags: ['API', 'SPA'],
+    title: 'Chess Empire',
+    tags: ['Unity', '2D Pixel Game'],
     projectLink: 'https://pixstock-official.vercel.app/'
   },
   {
