@@ -15,7 +15,7 @@ const works = [
     imgSrc: '/images/p1.png',
     title: 'Moti Motion',
     tags: ['UNITY', 'Programmer'],
-    projectLink: '../Html/project-detail.html'
+    projectLink: '../Html/pd1.html'
   },
   {
     imgSrc: '/images/project-2.jpg',
