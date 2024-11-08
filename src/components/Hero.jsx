@@ -11,7 +11,7 @@ import { ButtonPrimary, ButtonOutline } from "./Button";
 
 const Hero = () => {
   const handleDownloadCV = () => {
-    window.open('https://drive.google.com/file/d/1Jilzy0mLOUvIYpJPo6QRc_pMNBUjFq1p/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/uc?export=download&id=1f-o_KeR71mHqVxzMqGMOms6mWfzslwwt', '_blank');
   };
 
   return (
